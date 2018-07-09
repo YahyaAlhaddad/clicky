@@ -1,0 +1,37 @@
+.navbar { 
+    background-color: #434259; 
+    color: #fff; 
+    min-height: 70px; 
+    clear: both; 
+    margin: auto; 
+    position: fixed; 
+    width: 100%; 
+    font-size: 20px; 
+    z-index: 99; 
+    margin-bottom: 100px;
+    padding-left: 80px;
+    
+  } 
+  
+  li {
+    display: inline;
+    width: 33.3%; 
+    padding: 26px 0; 
+
+  } 
+   
+  ul {
+    width: 80%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #fff
+}

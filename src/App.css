@@ -1,0 +1,9 @@
+.header a { 
+  color: #fff; 
+  text-decoration: none; 
+}
+.header{
+  background-color: #434259;
+  color: wheat;
+  padding: 120px 0px 20px 80px;
+ } 

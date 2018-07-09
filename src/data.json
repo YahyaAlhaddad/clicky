@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "name": "baby-fair",
+    "image":"../../images/baby-fair.png",
+    "selected": false
+    },
+    {
+    "id": 2,
+    "name": "baby-princess",
+    "image":"../../images/baby-princess.jpg",
+    "selected": false
+    },
+    {
+    "id": 3,
+    "name": "ball",
+    "image":"../../images/ball.jpg",
+    "selected": false
+    },
+    {
+    "id": 4,
+    "name": "worrior",
+    "image":"../../images/worrior.png",
+    "selected": false
+    },
+    {
+    "id": 5,
+    "name": "chewbacca",
+    "image":"../../images/chewbacca.png",
+    "selected": false
+    },
+    {
+    "id": 6,
+    "name": "christmas-6",
+    "image":"../../images/christmas-6.jpg",
+    "selected": false
+    },
+    {
+    "id": 7,
+    "name": "darth-vader",
+    "image":"../../images/darth-vader.jpg",
+    "selected": false
+    },
+    {
+    "id": 8,
+    "name": "obi-wan",
+    "image":"../../images/obi-wan.jpg",
+    "selected": false
+    },
+    {
+    "id": 9,
+    "name": "old-yoda",
+    "image":"../../images/old-yoda.jpg",
+    "selected": false
+    },
+    {
+    "id": 10,
+    "name": "princess-leia",
+    "image":"../../images/princess-leia.jpg",
+    "selected": false
+    },
+    {
+    "id": 11,
+    "name": "r2-d2",
+    "image":"../../images/r2-d2.jpg",
+    "selected": false
+    },
+    {
+    "id": 12,
+    "name": "yoda",
+    "image":"../../images/yoda.jpg",
+    "selected": false
+    }
+    ]
